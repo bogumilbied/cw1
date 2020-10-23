@@ -1,5 +1,5 @@
 # cw1
 Bogumił
 Biedrzycki
-20c ITN
+ITN
 s18921
